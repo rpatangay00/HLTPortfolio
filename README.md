@@ -10,4 +10,4 @@ Here is a [Link](https://github.com/rpatangay00/HLTPortfolio/blob/98d6c8092932f2
 Here is a [Link](https://github.com/rpatangay00/HLTPortfolio/blob/b5e99aee86107e99a1262d390d6e0c22e7a540f4/Porfolio%20Component%201/text_processing/main.py) to the Text Processing Assignment.
 
 ### Portfolio Component 2: Word Guessing Game
-Here is a [Link]() to the Word Guessing Game Assignment.
+Here is a [Link](https://github.com/rpatangay00/HLTPortfolio/blob/a713622376013c59276178bbb365b3fa1aaa44ab/Portfolio%20Component%202/wordguessinggame.py) to the Word Guessing Game Assignment.
