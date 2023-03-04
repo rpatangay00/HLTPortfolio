@@ -11,3 +11,12 @@ Here is a [Link](https://github.com/rpatangay00/HLTPortfolio/blob/b5e99aee86107e
 
 ### Portfolio Component 2: Word Guessing Game
 Here is a [Link](https://github.com/rpatangay00/HLTPortfolio/blob/a713622376013c59276178bbb365b3fa1aaa44ab/Portfolio%20Component%202/wordguessinggame.py) to the Word Guessing Game Assignment.
+
+### Portfolio Component 3: Word Net
+Here is a [Link](https://github.com/rpatangay00/HLTPortfolio/blob/4652b9020cd2a8fd7d18de9771c22c5d8dc5bd1e/Portfolio%20Component%203%20/wordNet%20(1).ipynb) to the Word Net Assignment.
+
+### Portfolio Component 4: NGrams
+Here is a [Link](https://github.com/rpatangay00/HLTPortfolio/blob/47e9679f24e6e0cd4baf654a2601f20fcd5997a6/PortfolioComponent4/program1_ngrams/main.py) to the Program 1.
+
+Here is a [Link](https://github.com/rpatangay00/HLTPortfolio/blob/6dd44a3d37c8fc46bb4cb0cc707adeb5c08dd2da/PortfolioComponent4/program2_ngrams/main.py) to the Program 2.
+
