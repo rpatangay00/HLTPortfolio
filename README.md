@@ -22,3 +22,8 @@ Here is a [Link](https://github.com/rpatangay00/HLTPortfolio/blob/6dd44a3d37c8fc
 
 ### Portfolio Component 5: Web Crawler
 Here is a [Link](https://github.com/rpatangay00/HLTPortfolio/blob/1ac37b0bf88a4b4f8a95b63b3236ba82ccd1c552/Portfolio%20Component%205/webcrawler.py) to the assignment.
+
+### Portfolio Component 6: Parsing Sentences
+
+### Portfolio Component 7: Web Crawler
+Here is a [Link]() to the assignment.
