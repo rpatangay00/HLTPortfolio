@@ -30,6 +30,6 @@ Here is a [Link](https://github.com/rpatangay00/HLTPortfolio/blob/4693358c5b4741
 
 ### Portfolio Component : CHATBOT
 
-Code to [LifePath Bot](https://github.com/rpatangay00/HLTPortfolio/blob/cc2c8c6a0bf4a61a0b6fb3f1357157d09c5ec587/LIFEPATHBOT/chat_bot/main.py) !
+Code to [LifePath Bot](https://github.com/rpatangay00/HLTPortfolio/blob/3993c60d0c248345c007919012539a927461ce02/LIFEPATHBOT/chat_bot/main.py) !
 
 
