@@ -1,5 +1,9 @@
 import csv
 import random
+import spacy
+
+# Load the English language model for NLP
+nlp = spacy.load('en_core_web_sm')
 
 def get_user_data(name):
     # Check if user has saved data
@@ -51,17 +55,25 @@ def get_lifepath_meaning(lifepath_number):
 
 def chatbot():
     while True:
+        # Ask for user's name
         name = input("Hello I'm LifePath Bot, what's your name? (type 'exit' to end the program) ")
         if name == 'exit':
+            # End the program if user types 'exit'
             print("Goodbye ," + name + "it was nice talking to you!" )
             break
+        # Get user data (likes, dislikes, birthdate) or ask for it if not found
         likes, dislikes, birthdate = get_user_data(name)
+        # Greet user and give them a compliment
         print("Nice to meet you, " + name + "!")
         print(get_compliment())
+        # Calculate and show user's lifepath number and its meaning
         lifepath_number = get_lifepath_number(birthdate)
         print("Your lifepath number is:", lifepath_number)
         print("Your lifepath meaning is:", get_lifepath_meaning(lifepath_number))
+        # Remind user of their likes and dislikes
         print("I also remember that you like", likes, "and dislike", dislikes + ".")
+        # Tell user a joke to lighten their mood
         print("Here's a joke to brighten your day! " + get_joke())
 
+# Call the chatbot function to start the program
 chatbot()
