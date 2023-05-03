@@ -35,3 +35,7 @@ Code to [LifePath Bot](https://github.com/rpatangay00/HLTPortfolio/blob/3993c60d
 Report [Link](https://github.com/rpatangay00/HLTPortfolio/blob/edd4a5e17eb37f59203257c479596ade556d5c3d/LIFEPATHBOT/chat_bot/LIFEPATH%20BOT%20REPORT.pdf)
 
 ### Portfolio Component 9: Text Classification 2
+Here is a [Link] (https://github.com/rpatangay00/HLTPortfolio/blob/e72e22d245599d7ecad40d9d0cd0d1f0d5126c68/Portfolio%20Component%209/text_classification_2.pdf) to the assignment.
+
+
+
