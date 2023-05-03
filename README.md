@@ -37,5 +37,7 @@ Report [Link](https://github.com/rpatangay00/HLTPortfolio/blob/edd4a5e17eb37f592
 ### Portfolio Component 9: Text Classification 2
 Here is a [Link](https://github.com/rpatangay00/HLTPortfolio/blob/e72e22d245599d7ecad40d9d0cd0d1f0d5126c68/Portfolio%20Component%209/text_classification_2.pdf) to the assignment.
 
+### Portfolio Component 10: NLP Summary
+Here is a [Link](https://github.com/rpatangay00/HLTPortfolio/blob/c8877bb0fbcf590d3f49371974647f4a5d693213/NLP%20Summary.pdf) to the pdf.
 
 
