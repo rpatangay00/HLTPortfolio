@@ -32,4 +32,6 @@ Here is a [Link](https://github.com/rpatangay00/HLTPortfolio/blob/4693358c5b4741
 
 Code to [LifePath Bot](https://github.com/rpatangay00/HLTPortfolio/blob/3993c60d0c248345c007919012539a927461ce02/LIFEPATHBOT/chat_bot/main.py) !
 
+Report [Link](https://github.com/rpatangay00/HLTPortfolio/blob/edd4a5e17eb37f59203257c479596ade556d5c3d/LIFEPATHBOT/chat_bot/LIFEPATH%20BOT%20REPORT.pdf)
 
+### Portfolio Component 9: Text Classification 2
